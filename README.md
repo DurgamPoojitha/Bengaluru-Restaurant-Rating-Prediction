@@ -42,6 +42,7 @@ Google Maps, not a pre-existing dataset from a repository such as Kaggle or UCI.
 
 Restaurants with no or no reviews were eliminated, as they do not offer any
 rating signal and only add noise — this took the dataset from 10,164 to 6,335 rows.
+**The report has values taken approximately**
 
 **Key variables:**
 
